@@ -1,1 +1,1 @@
-# odin-recipes
+Since this is my second time doing this exercise, it will be filled with placeholder text and images. Once was enough.
